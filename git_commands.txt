@@ -1,0 +1,5 @@
+  153  git branch
+  154  git add .
+  155  git status
+  156  git commit -m "code added"
+  157  hitsory
